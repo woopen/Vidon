@@ -6,7 +6,7 @@ const pkg = require('../package.json');
 
 module.exports = {
   entry: {
-    Ver: './src/ts/index.ts',
+    Vidon: './src/ts/index.ts',
   },
 
   resolve: {

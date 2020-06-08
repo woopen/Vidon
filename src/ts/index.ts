@@ -1,4 +1,4 @@
-import Ver from './ver';
+import Vidon from './vidon';
 import '../scss/index.scss';
 
-export default Ver;
+export default Vidon;
