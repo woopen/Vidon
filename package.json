@@ -1,6 +1,6 @@
 {
   "name": "ver",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "image preview",
   "main": "dist/index.js",
   "license": "MIT",
