@@ -1,0 +1,21 @@
+{
+  "include": [
+    "src/**/*"
+  ],
+  "compilerOptions": {
+    "strict": true,
+    "declaration": true,
+    "declarationDir": "./dist",
+    "module": "esnext",
+    "noImplicitAny": true,
+    "outDir": "./dist",
+    "target": "es5",
+    "moduleResolution": "Node",
+    "sourceMap": true,
+    "lib": ["DOM", "DOM.Iterable", "ESNext", "ScriptHost"],
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true
+  },
+  "exclude": ["node_modules"]
+}
