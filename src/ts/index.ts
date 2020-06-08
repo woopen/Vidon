@@ -1,4 +1,4 @@
-import Previewer from './previewer';
+import Ver from './ver';
 import '../scss/index.scss';
 
-export default Previewer;
+export default Ver;

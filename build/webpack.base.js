@@ -6,7 +6,7 @@ const pkg = require('../package.json');
 
 module.exports = {
   entry: {
-    Previewer: './src/ts/index.ts',
+    Ver: './src/ts/index.ts',
   },
 
   resolve: {
