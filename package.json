@@ -9,7 +9,7 @@
     "dist"
   ],
   "repository": {
-    "url": "https://github.com/woopen/Previewer.git",
+    "url": "https://github.com/woopen/Vidon.git",
     "type": "git"
   },
   "keywords": [
@@ -18,7 +18,7 @@
     "responsive",
     "mobile"
   ],
-  "homepage": "https://github.com/woopen/Previewer",
+  "homepage": "https://github.com/woopen/Vidon",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server --config build/webpack.dev.js --watch --colors",
     "build": "cross-env NODE_ENV=production webpack --config build/webpack.prod.js --progress --display-error-details --colors",
